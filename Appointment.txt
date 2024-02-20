@@ -1,0 +1,12 @@
+1636435005821	maxglory@gmail.com	Moderna	09-11-2021 12:13	Sabah Vaccination Centre	FIRST_DOSE
+1637052311726	alex123@gmail.com	Moderna	16-11-2021 15:44	Sabah Vaccination Centre	FIRST_DOSE
+1638008776297	aaron@gmail.com	AstraZeneca	27-11-2021 17:26	Malacca Vaccination Centre	FIRST_DOSE
+1638008797506	adams@gmail.com	Pfizer	27-11-2021 17:26	Penang Vaccination Centre	FIRST_DOSE
+1638008813770	tim@gmail.com	Sinovac	27-11-2021 17:26	Penang Vaccination Centre	FIRST_DOSE
+1638008832796	bob@gmail.com	Pfizer	27-11-2021 17:27	KL Vaccination Centre	FIRST_DOSE
+1638008858235	tina@gmail.com	Sinopharm	27-11-2021 17:27	Selangor Vaccination Centre	FIRST_DOSE
+1638008883908	ludwig@gmail.com	Sinopharm	27-11-2021 17:27	Malacca Vaccination Centre	FIRST_DOSE
+1638008933272	steve@gmail.com	Moderna	27-11-2021 17:28	Malacca Vaccination Centre	FIRST_DOSE
+1638008957913	marcus@gmail.com	Sinopharm	27-11-2021 17:29	KL Vaccination Centre	FIRST_DOSE
+1638009000088	arthur@gmail.com	Pfizer	27-11-2021 17:29	Penang Vaccination Centre	FIRST_DOSE
+1638009043925	ron@gmail.com	Sinovac	27-11-2021 17:30	KL Vaccination Centre	FIRST_DOSE

@@ -1,0 +1,5 @@
+VC001	KL Vaccination Centre	Ampang Street, No.34
+VC002	Selangor Vaccination Centre	Silver Street, No.10
+VC003	Sabah Vaccination Centre	Bangsar Street, No.76
+VC004	Penang Vaccination Centre	Old River Street, No.54
+VC005	Malacca Vaccination Centre	Parry Street, No.19
